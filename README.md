@@ -6,5 +6,9 @@ Using sabbathschool.github.io template
 - [ ] cover page
 - [ ] Index of hymnals
 - [ ] Search: *Algolia*
-- [ ] Search: *Google*
+- [X] Search: *Google*
 - [ ] Fix indices tables
+- [ ] move from github.
+- [ ] New phase note
+- [ ] Fix analytics
+- [ ] move from adventhymnals.github.io to adventhymnals.org
