@@ -206,10 +206,7 @@ kramdown:
 
 # Collections
 collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
-  lessons:
+  hymnals:
     output: true
     permalink: /:collection/:path/
   # pets:
