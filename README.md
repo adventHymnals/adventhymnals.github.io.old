@@ -7,3 +7,4 @@ Using sabbathschool.github.io template
 - [ ] Index of hymnals
 - [ ] Search: *Algolia*
 - [ ] Search: *Google*
+- [ ] Fix indices tables
